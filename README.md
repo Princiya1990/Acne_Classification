@@ -52,16 +52,18 @@ ACNE/
 ```bash
 cd image_sketch_translator
 python sketch_to_image.py --input_dir path/to/images --output_dir path/to/sketches
-
+```
 ### 2. **Super-Resolution on Sketches**
+```
 cd ../super_resolution_module
 python super_GAN.py --lr_dir path/to/sketches --output_dir path/to/sr_sketches
-
+```
 ### 3. **Quantum Classification**
+```
 cd ../quantum_classifier
 python feature_extractor.py --img_dir path/to/sr_sketches --label_csv path/to/labels.csv --out_csv data/quantum_features_with_labels.csv
 python hybrid_quantum.py --feature_csv data/quantum_features_with_labels.csv
-
+```
 
 
 
