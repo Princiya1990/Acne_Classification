@@ -9,6 +9,8 @@ Python 3.8+
 torch, torchvision
 qiskit, qiskit-machine-learning
 scikit-learn, pandas, opencv-python, pillow
+
+pip install -r requirements.txt
 ```
 
 ## Project Structure
