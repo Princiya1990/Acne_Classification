@@ -8,6 +8,7 @@ A modular pipeline for acne severity classification using **Quantum Neural Netwo
 
 
 ## Project Structure
+```
 ACNE/
 ├── image_sketch_translator/
 │ ├── code/
@@ -20,7 +21,7 @@ ACNE/
 ├── super_resolution_module/
 │ ├── readme.txt
 │ └── super_GAN.py
-
+```
 
 
 ## Module Overview
