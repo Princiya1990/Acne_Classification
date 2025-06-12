@@ -4,8 +4,12 @@ A modular pipeline for acne severity classification using **Quantum Neural Netwo
 ---
 
 # Requirements
-
-
+```
+Python 3.8+
+torch, torchvision
+qiskit, qiskit-machine-learning
+scikit-learn, pandas, opencv-python, pillow
+```
 
 ## Project Structure
 ```
