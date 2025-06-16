@@ -1,6 +1,6 @@
 # Quantum-Aided Acne Severity Detection
 
-A modular pipeline for acne severity classification using **Quantum Neural Networks** (GANs, CNNs) and **quantum neural networks**.
+A modular pipeline for acne severity classification using **GAN** and **quantum neural networks**.
 ---
 
 # Requirements
