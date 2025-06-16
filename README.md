@@ -28,6 +28,9 @@ ACNE/
 │ ├── readme.txt
 │ └── super_GAN.py
 ```
+## Datasets Used
+1. Acne recognition dataset: https://drive.google.com/drive/folders/1SA3nboBWxZHm04rsq--ezd7ZwnFxfLc6?usp=sharing
+
 
 
 ## Module Overview
